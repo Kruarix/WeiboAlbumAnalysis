@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "系统后端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kruarix",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

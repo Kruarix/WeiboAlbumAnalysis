@@ -1,0 +1,4 @@
+# 忽略虚拟环境
+scripts/venv/
+# 忽略node环境
+backend/node_modules/
